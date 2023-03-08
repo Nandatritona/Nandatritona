@@ -12,4 +12,43 @@
 
 <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 
+### Programming languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![GO](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+### Frontend development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
+![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+![Chart.js](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
+![Chart.js](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Cypress](https://img.shields.io/badge/-jetbrains-000?&logo=jetbrains)
+![Jira](https://img.shields.io/badge/-ubuntu-000?&logo=ubuntu)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+### Services & Frameworks: 
+&emsp;
+![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
+![Serverless](https://img.shields.io/badge/-Express-000?&logo=Express)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
